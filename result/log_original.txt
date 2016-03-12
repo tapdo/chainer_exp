@@ -1,0 +1,38 @@
+2016-03-13 03:05:09,138 Start training
+2016-03-13 03:05:09,140 ----- epoch:1/500 (0-390itr) batchsize:128 -----
+2016-03-13 03:08:39,625 train loss:2.345 accuracy:0.181 epoch time:210.5 duration:0.540
+2016-03-13 03:08:44,617 test loss:1.810 accuracy:0.317
+2016-03-13 03:08:44,617 ----- epoch:2/500 (390-781itr) batchsize:128 -----
+2016-03-13 03:12:02,088 train loss:1.627 accuracy:0.391 epoch time:197.5 duration:0.506
+2016-03-13 03:12:07,042 test loss:1.808 accuracy:0.367
+2016-03-13 03:12:07,043 ----- epoch:3/500 (781-1171itr) batchsize:128 -----
+2016-03-13 03:15:28,838 train loss:1.359 accuracy:0.505 epoch time:201.8 duration:0.517
+2016-03-13 03:15:33,802 test loss:1.332 accuracy:0.514
+2016-03-13 03:15:33,803 ----- epoch:4/500 (1171-1562itr) batchsize:128 -----
+2016-03-13 03:18:51,085 train loss:1.195 accuracy:0.570 epoch time:197.3 duration:0.506
+2016-03-13 03:18:56,030 test loss:1.282 accuracy:0.546
+2016-03-13 03:18:56,032 ----- epoch:5/500 (1562-1953itr) batchsize:128 -----
+2016-03-13 03:22:17,380 train loss:1.067 accuracy:0.618 epoch time:201.3 duration:0.516
+2016-03-13 03:22:22,341 test loss:1.211 accuracy:0.574
+2016-03-13 03:22:22,341 ----- epoch:6/500 (1953-2343itr) batchsize:128 -----
+2016-03-13 03:25:38,509 train loss:0.960 accuracy:0.661 epoch time:196.2 duration:0.503
+2016-03-13 03:25:43,470 test loss:1.062 accuracy:0.622
+2016-03-13 03:25:43,470 ----- epoch:7/500 (2343-2734itr) batchsize:128 -----
+2016-03-13 03:29:12,755 train loss:0.880 accuracy:0.688 epoch time:209.3 duration:0.537
+2016-03-13 03:29:17,720 test loss:1.165 accuracy:0.610
+2016-03-13 03:29:17,721 ----- epoch:8/500 (2734-3125itr) batchsize:128 -----
+2016-03-13 03:32:34,904 train loss:0.805 accuracy:0.715 epoch time:197.2 duration:0.506
+2016-03-13 03:32:39,892 test loss:0.977 accuracy:0.663
+2016-03-13 03:32:39,892 ----- epoch:9/500 (3125-3515itr) batchsize:128 -----
+2016-03-13 03:35:58,911 train loss:0.735 accuracy:0.740 epoch time:199.0 duration:0.510
+2016-03-13 03:36:03,884 test loss:1.024 accuracy:0.649
+2016-03-13 03:36:03,885 ----- epoch:10/500 (3515-3906itr) batchsize:128 -----
+2016-03-13 03:39:20,180 train loss:0.676 accuracy:0.763 epoch time:196.3 duration:0.503
+2016-03-13 03:39:25,144 test loss:0.979 accuracy:0.667
+2016-03-13 03:39:25,144 ----- epoch:11/500 (3906-4296itr) batchsize:128 -----
+2016-03-13 03:42:50,565 train loss:0.617 accuracy:0.782 epoch time:205.4 duration:0.527
+2016-03-13 03:42:55,529 test loss:1.140 accuracy:0.653
+2016-03-13 03:42:55,530 ----- epoch:12/500 (4296-4687itr) batchsize:128 -----
+2016-03-13 03:46:12,137 train loss:0.557 accuracy:0.806 epoch time:196.6 duration:0.504
+2016-03-13 03:46:17,099 test loss:0.937 accuracy:0.702
+2016-03-13 03:46:17,119 ----- epoch:13/500 (4687-5078itr) batchsize:128 -----
